@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jessumolano@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BIJtgX3R9pT8XEEHF1TS77_4QtlPUTzo/view?usp=sharing](https://drive.google.com/file/d/1BIJtgX3R9pT8XEEHF1TS77_4QtlPUTzo/view?usp=sharing)
+- 📄 Look my CV [here](https://drive.google.com/file/d/1BIJtgX3R9pT8XEEHF1TS77_4QtlPUTzo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
