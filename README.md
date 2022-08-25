@@ -2,7 +2,7 @@
 <img width="100%" height = "200px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
 </div>
 
-<h1> Hi! I'm Jesús Molano <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hi! I'm Jesús Molano <img src = "https://github.com/jesus-molano/jesus-molano/blob/80dbd6f5a952c9f7153b9953909cffcfa929f5e9/Linkedin%20-%20Profile%20cover%20-%201584%20x%20396.png" width = 50px height='50px'> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jesus-molano.jesus-molano)
