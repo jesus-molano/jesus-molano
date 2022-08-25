@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Comic Database](https://react18-heroes.vercel.app/)
 
-- 🌱 I’m currently learning **React 18 and Redux**
-
 - 🔭 And... [Journal App](https://github.com/jesus-molano/react18-journal-app)
+
+- 🌱 I’m currently learning **React 18 and Redux**
 
 - 📫 How to reach me **jessumolano@gmail.com**
 
