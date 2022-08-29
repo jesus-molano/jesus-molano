@@ -1,5 +1,5 @@
 <div align="center">
-<img width="95%" height = "250px" src="https://github.com/jesus-molano/jesus-molano/blob/87aeec92542dee9e3eb62f5286cc16de2540f494/banner.png" alt="cover" />
+<img width="95%" height = "250px" src="https://github.com/jesus-molano/jesus-molano/blob/b90a1ace9ba12f031bc0f0381d17b07c37e0c491/githubcover.png" alt="cover" />
 </div>
 
 <h1> Hi! I'm Jesús Molano <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
