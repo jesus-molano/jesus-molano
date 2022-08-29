@@ -9,7 +9,7 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on: A Journal App with React 18, Redux Toolkit and MaterialUI
+- 🔭 I’m currently working on: A group calendar with Fernando Herrera's course on Udemy
 
 - 🌱 I’m currently learning: React 18 and Redux 
 
