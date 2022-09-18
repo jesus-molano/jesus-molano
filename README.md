@@ -9,9 +9,9 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on: A group calendar with Fernando Herrera's course on Udemy
+- 🔭 I’m currently working on: Responsive Web Design Certificate by FreeCodeCamp
 
-- 🌱 I’m currently learning: React 18 and Redux 
+- 🌱 I’m currently learning: Typescript and React 18
 
 - 💬 Talk to me about: Movies, series and videogames 
 
