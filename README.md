@@ -9,11 +9,9 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on: Responsive Web Design Certificate by FreeCodeCamp
+- 🔭 I’m currently working on: Ecommerce project with Vue and Laravel
 
-- 🌱 I’m currently learning: Typescript and React 18
-
-- 💬 Talk to me about: Movies, series and videogames 
+- 🌱 I’m currently learning: Laravel, PHP and remembering Vue
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
