@@ -6,14 +6,6 @@
 Take a look at <a href="https://jesusmolano.dev" target="_blank" rel='noopener noreferrer'>my website!</a>🌐
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jesus-molano.jesus-molano)
-
-<h2> About Me </h2>
-
-- 🔭 I’m currently working on: My own website with Astro and TypeScript
-
-- 🌱 I’m currently learning: Astro and TypeScript
-
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
@@ -33,7 +25,6 @@ Take a look at <a href="https://jesusmolano.dev" target="_blank" rel='noopener n
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/jesus-molano-perdomo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/@JessMolano5'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@jessumolano'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.github.com/jesus-molano'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
