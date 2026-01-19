@@ -1,40 +1,96 @@
 <div align="center">
-<img src="https://github.com/jesus-molano/jesus-molano/blob/78258cbc844b1e11f837544e0cbcb0264483d847/githubcover.png" alt="cover" style="object-fit:cover; width:100%; height:100%;"/>
-  
+  <img src="https://github.com/jesus-molano/jesus-molano/blob/78258cbc844b1e11f837544e0cbcb0264483d847/githubcover.png" alt="cover" width="100%"/>
 </div>
 
-<h1> Hi! I'm Jesús Molano <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-Take a look at <a href="https://jesusmolano.dev" target="_blank" rel='noopener noreferrer'>my website!</a>🌐
-<p align='center'>
+<div align="center">
+  <a href="https://jesusmolano.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-jesusmolano.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jesus-molano-perdomo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/JessMolano5" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
-<a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
-<a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
-<a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/jesus-molano?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<br/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;TypeScript+%7C+React+%7C+Vue+%7C+Node.js;Building+modern+web+experiences" alt="Typing SVG" />
+</div>
 
-<h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/jesus-molano-perdomo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/@JessMolano5'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/jesus-molano'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+---
 
+## About Me
 
+```typescript
+const jesus = {
+  location: "Spain",
+  website: "https://jesusmolano.dev",
+  currentFocus: ["Next.js 15", "Nuxt 4", "Supabase"],
+  passions: ["Clean Code", "DX", "Performance"],
+};
+```
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jesus-molano&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-molano&theme=default" />
-</a>
+## Tech Stack
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=ts,react,vue,nextjs,nuxt,astro,tailwind,vite&theme=dark" alt="Frontend Skills"/>
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,supabase,postgres,mongodb&theme=dark" alt="Backend Skills"/>
+
+### Tools & Others
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,neovim,vscode,figma,vercel&theme=dark" alt="Tools"/>
+
+</div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+  <a href="https://github.com/jesus-molano/vuenime">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-molano&repo=vuenime&theme=tokyonight&hide_border=true" alt="Vuenime"/>
+  </a>
+  <a href="https://github.com/jesus-molano/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-molano&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/jesus-molano/teslo-shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-molano&repo=teslo-shop&theme=tokyonight&hide_border=true" alt="Teslo Shop"/>
+  </a>
+  <a href="https://github.com/jesus-molano/omarchy-dotfiles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jesus-molano&repo=omarchy-dotfiles&theme=tokyonight&hide_border=true" alt="Dotfiles"/>
+  </a>
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jesus-molano&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-molano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesus-molano&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jesus-molano&style=for-the-badge&color=6366f1" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <sub>Built with passion from Spain</sub>
+</div>
