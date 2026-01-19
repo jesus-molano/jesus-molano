@@ -1,8 +1,5 @@
 
 <div align="center">
-  <a href="https://jesusmolano.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-jesusmolano.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://www.linkedin.com/in/jesus-molano-perdomo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -24,7 +21,6 @@
 ```typescript
 const jesus = {
   location: "Spain",
-  website: "https://jesusmolano.dev",
   currentFocus: ["Next.js 15", "Nuxt 4", "Supabase"],
   passions: ["Clean Code", "DX", "Performance"],
 };
