@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://github.com/jesus-molano/jesus-molano/blob/78258cbc844b1e11f837544e0cbcb0264483d847/githubcover.png" alt="cover" width="100%"/>
-</div>
 
 <div align="center">
   <a href="https://jesusmolano.dev" target="_blank">
@@ -77,12 +74,7 @@ const jesus = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesus-molano&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-molano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesus-molano&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
